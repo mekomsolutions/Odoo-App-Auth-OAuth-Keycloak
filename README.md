@@ -1,3 +1,6 @@
 # Odoo App: Auth OAuth Keycloak
 
-By Installing this module, you will be able To see the database name on the top right of web page without needing to debug mode.
+Enables Keycloack integration for the OAuth2 Authentication module.
+
+Clone the module into the addon folder of the Odoo installation.  
+`git clone https://github.com/Mint-System/Odoo-App-Auth-OAuth-Keycloak.git auth_oauth_keycloak`
