@@ -11,9 +11,9 @@
 
     'author': "Mint System",
     'website': "https://www.mint-system.ch",
-
+    "license": "AGPL-3",
     'category': 'Technical Settings',
-    'version': '1.0.1',
+    'version': '1.0.2',
 
     'depends': [
         'base',
