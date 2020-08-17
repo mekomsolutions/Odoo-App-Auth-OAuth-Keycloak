@@ -9,11 +9,11 @@
         Enables Keycloack integration for the OAuth2 Authentication module.
     """,
 
-    'author': "Mint System",
-    'website': "https://www.mint-system.ch",
+    'author': 'Mint System',
+    'website': 'https://www.mint-system.ch',
     'license': 'AGPL-3',
     'category': 'Technical Settings',
-    'version': '1.0.3',
+    'version': '1.0.4',
 
     'depends': [
         'base',
