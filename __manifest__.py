@@ -3,7 +3,8 @@
     'name': "Auth OAuth Keycloak",
 
     'summary': """
-        Enables Keycloack integration for the OAuth2 Authentication module.""",
+        Enables Keycloack integration for the OAuth2 Authentication module.
+    """,
 
     'description': """
         Enables Keycloack integration for the OAuth2 Authentication module.
