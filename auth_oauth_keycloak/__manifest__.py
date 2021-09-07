@@ -18,11 +18,11 @@
 
     'depends': [
         'base',
-        'auth_oauth',
+        'auth_oauth'
     ],
 
     'data': [
         'views/ir_model_fields.xml',
-        'views/ir_ui_view.xml',
+        'views/ir_ui_view.xml'
     ],
 }
