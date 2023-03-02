@@ -4,7 +4,7 @@
     <artifactId>auth_oauth_keycloak</artifactId>
     <name>Odoo Keycloak plugin</name>
     <description>Allow SSO login with keycloak on odoo</description>
-    <version>14.0.1.0.0-SNAPSHOT</version>
+    <version>14.0.1.0.0</version>
     <packaging>pom</packaging>
   
     <developers>
